@@ -30,24 +30,18 @@ h1{
     font-family: "Sora", sans-serif;
     font-size: medium;
     color: #20293A;
- margin-right: 0;
- padding-right: 0;
 }
 
 p{
     color: #394150;
     font-family: "Sora", sans-serif;
     margin-bottom: 20px;
-     margin-right: 0;
- padding-right: 0;
 }
 
 #name{
     margin: 20px 16px 0 0;
     color: #394150;
     font-size: small;
-      margin-right: 0;
- padding-right: 0;
 }
 
 #line{
