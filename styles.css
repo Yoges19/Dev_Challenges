@@ -6,14 +6,14 @@
 #container{
     margin: 164px auto;
     width: 368px;
-    box-shadow: 10px 0px 8px -8px #F2EAFD;
+    box-shadow: 10px 0px 10px -8px #b4b6b9;
     border-radius: 10px;
-    padding: 16px 0 20px 16px;
-    background-color: #FAFAF9;
-
+    padding: 16px 0px 20px 16px;
+    background-color: white;
 }
 #cactus-img{
-    margin: 0 0 16px 0;
+    width: 351px;
+    margin: 0 16px 16px 0;
     border-radius: 10px;
 }
 #btn{
@@ -22,7 +22,6 @@
     border-radius: 20px;
     color: #7C19EE;
     background-color: #F2EAFD;
-    margin-right: 0;
 }
 
 h1{
@@ -45,9 +44,9 @@ p{
 }
 
 #line{
-  border: none;             /* Removes the default border */
-  height: 1px;              /* Sets line thickness */
-  background-color: #E5EAF0;   /* Defines line color */
-  width: 100%;               /* Dictates line width */
-  margin: 20px auto; 
+  border: none;            
+  height: 1px;              
+  background-color: #E5EAF0;  
+  width: 100%;               
+  margin: 20px 20px 20px 0; 
 }
