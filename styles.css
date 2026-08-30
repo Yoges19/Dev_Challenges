@@ -6,7 +6,7 @@
 #container{
     margin: 164px auto;
     width: 368px;
-    box-shadow: 10px 0px 10px -8px #b4b6b9;
+    box-shadow: 10px 10px 10px -8px #d6d9dd;
     border-radius: 10px;
     padding: 16px 0px 20px 16px;
     background-color: white;
@@ -49,4 +49,5 @@ p{
   background-color: #E5EAF0;  
   width: 100%;               
   margin: 20px 20px 20px 0; 
+  padding-left: 0;
 }
